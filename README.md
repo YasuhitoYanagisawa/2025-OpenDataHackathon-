@@ -1,7 +1,8 @@
 # 就職氷河期世代の分析とペルソナ生成ツール提案
 
 [レポートはこちらで閲覧できます。](https://yasuhitoyanagisawa.github.io/2025-OpenDataHackathon-/2025%E9%83%BD%E7%9F%A5%E4%BA%8B%E6%9D%AFOpenDataHackathon%20%E4%B8%AD%E9%87%8E%E5%8C%BA%E8%A1%8C%E6%94%BF%E8%AA%B2%E9%A1%8C%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.html)
-[Genspark生成スライドはこちら](./【2025ODH】Genspark生成スライド.pdf)
+
+[Genspark生成スライドはこちら。](./【2025ODH】Genspark生成スライド.pdf)
 
 **組織名：** 中野区
 
